@@ -35,7 +35,7 @@ Github Desktop is a software which provides and quick and easy way to do [Git op
 ## Git Operations
 Git operations makes up the basic system to working on a repository with other collaborators present. Normally Git operations are executed through GIT Bash and GIT UI, but with Github desktop present, these operations can now be executed without going to the command line.
 
-
+This diagram shows the general flow of an editing process using Github Desktop: ![](git-operations.drawio.png)
 
 
 [Return to main page](README.md)
