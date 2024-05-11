@@ -37,5 +37,15 @@ Git operations makes up the basic system to working on a repository with other c
 
 This diagram shows the general flow of an editing process using Github Desktop: ![](git-operations.drawio.png)
 
+- Fork: This operation creates an new fork, which is completely owned by you. Having a fork enables greater control for you over the repository, and will cause less conflicts with other collaborators on the main repository. Fork will onnly be used for the first instance when you create a personal copy of a public repository
+- Sync: This operation is similar to fork, as this operation also fetches the code from the public repository to your personal fork of the repository.
+- Clone: This operation clones the code in your personal copy of the repository to your local machine. This operation will only be used when it's the first time you create a local copy of the repository.
+- Fetch: This operation is similar to clone, and it will update your local repository to match the code in your personal copy of the public repository.
+- Pull: This operation pulls up the files stored in your local machine and opens it in your code editor.
+- Commit: This operation logs your changes to your local machine's repostiory, and you can add name and comment for each commit for better documention.
+- Push: This operation updates your personal copy of the repository with the files and code currently exist on your local repository.
+- Merge: This operation updates the public repository with the contents from your local copy of public repository. Because of the inherent danger caused by this operation, the UES repository only allows administrator to perform this operation. So as regualr collaborators, you are required to create a pull request.
+- Pull Request: Pull request is an request to merge your current copy of the public repository into the public repository. This request will prompt administrators to review your code, and will merge your code into the public repository once they approved it.
+
 
 [Return to main page](README.md)
