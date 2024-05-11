@@ -30,9 +30,12 @@ Github Desktop is a software which provides and quick and easy way to do [Git op
 9. Github should automatically automatically bring you to your new fork, if not, you can find your fork under the list of repositories in your account.
 10. Click on the green button that says "Code", and then click "Open with Github Desktop".
 11. This should bring you back to Github Desktop with a pop up showing up. Click "clone".
-12. The entire code from the UES respository has now been copied to your local machine. Click "open in Visual Studio Code" to check it out and begin editing.
+12. The entire code from the UES respository has now been copied to your local machine. Click "open in Visual Studio Code" to check the code out and begin editing.
 
 ## Git Operations
+Git operations makes up the basic system to working on a repository with other collaborators present. Normally Git operations are executed through GIT Bash and GIT UI, but with Github desktop present, these operations can now be executed without going to the command line.
+
+
 
 
 [Return to main page](README.md)
