@@ -48,7 +48,13 @@ This diagram shows the general flow of an editing process using Github Desktop: 
 - Pull Request: Pull request is a request to merge your current copy of the public repository into the public repository. This request will prompt administrators to review your code and will merge your code into the public repository once they approve it.
 
 ## SOP to Editing Code Documents for UES Website
-1. Go to your fork of the the UES website (the URL should be something similar to "\<your Github username here>/UES-Website)", and click the sync fork button.
-2. Go to Github Desktop, click "fetch origin", and then click 
+1. Go to your fork of the UES website (the URL should be something similar to "\<your Github username here>/UES-Website)", and click the sync fork button.
+2. Go to Github Desktop, click "fetch origin", and then click "pull origin"
+3. Edit your code, and frequently save your progress
+4. Every once in a while, when you're finished with a code block, go back to Github Desktop and click commit. Feel free to change the title and comment of your commits
+5. Click "push origin"
+6. Go back to your fork of the UES website and click the contribute button, and the click "Open pull request"
+7. Click "Create pull request", and then fill in your pull request's title and comment. The title should be short and concise, while the comment shoul summarize the code changes in this pull request.
+8. Click "Create pull request", and notify your VP about it. Once you have pull request, any further changes on your fork will automatically go into your pull request, therefore you don't need to open a new pull request while you have one already opened.
 
 [Return to main page](README.md)
