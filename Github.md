@@ -47,7 +47,8 @@ This diagram shows the general flow of an editing process using Github Desktop: 
 - Merge: This operation updates the public repository with the contents from your local copy of the public repository. Because of the inherent danger caused by this operation, the UES repository only allows administrators to perform this operation. So as regular collaborators, you are required to create a pull request.
 - Pull Request: Pull request is a request to merge your current copy of the public repository into the public repository. This request will prompt administrators to review your code and will merge your code into the public repository once they approve it.
 
-
-
+## SOP to Editing Code Documents for UES Website
+1. Go to your fork of the the UES website (the URL should be something similar to "\<your Github username here>/UES-Website)", and click the sync fork button.
+2. Go to Github Desktop, click "fetch origin", and then click 
 
 [Return to main page](README.md)
