@@ -57,4 +57,9 @@ This diagram shows the general flow of an editing process using Github Desktop: 
 7. Click "Create pull request", and then fill in your pull request's title and comment. The title should be short and concise, while the comment shoul summarize the code changes in this pull request.
 8. Click "Create pull request", and notify your VP about it. Once you have pull request, any further changes on your fork will automatically go into your pull request, therefore you don't need to open a new pull request while you have one already opened.
 
+## Other Advanced Github Operations
+Information specified in this section are not necessary for your tasks in UES, but is nonetheless important in other programming situations. Therefore, please do not read this section unless you are already familiar with the basic Github operations.
+
+* **Branching:** 
+
 [Return to main page](README.md)
